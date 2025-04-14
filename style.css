@@ -81,7 +81,7 @@
   
   .disabled {
     color: #8f98a8;
-    text-decoration: lightcoral;
+    text-decoration: line-through;
   }
   
   .counter-container {
